@@ -2,7 +2,7 @@ import { supabase } from "../src/providers/supabase";
 
 module.exports = async (req, res) => {
   if (req.method === "GET") {
-    const table = "events";
+    const table = "users";
 
     let { data, error } = await supabase.from(table).select("*");
 
