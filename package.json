@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.38.5",
+    "jsonwebtoken": "^9.0.2",
     "sirv-cli": "^2.0.0"
   }
 }
