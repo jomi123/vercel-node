@@ -1,3 +1,3 @@
 # vercel-node
-## Simple program indicating the vercel functions
+## Vercel functions implementation
  
